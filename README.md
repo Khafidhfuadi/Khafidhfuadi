@@ -1,10 +1,9 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Khafidh%20Fuadi&fontSize=50&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Mobile%20%26%20Full-Stack%20Developer&descAlignY=58&descColor=8B949E" width="100%" />
-
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Modern+Digital+Products+%F0%9F%9A%80;Flutter+%7C+React+%7C+Node.js+Developer;Clean+UI+%2B+Solid+Architecture;Open+to+Collaborate+%26+Innovate+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=70&lines=Hi+there!+I'm+Khafidh+%F0%9F%91%8B;Software+Engineer+%F0%9F%9A%80;Mobile+%26+Full-Stack+Developer)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1000&color=8B949E&center=true&vCenter=true&width=700&lines=Building+Modern+Digital+Products;Flutter+%7C+React+%7C+Node.js;Clean+UI+%2B+Solid+Architecture;Open+to+Collaborate+%26+Innovate+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 </div>
 
@@ -115,5 +114,3 @@ const khafidh = {
 [![](https://visitcount.itsvg.in/api?id=Khafidhfuadi&icon=6&color=6)](https://visitcount.itsvg.in)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=120&section=footer" width="100%" />
